@@ -39,6 +39,7 @@ public class NBPDecisionState
 
     private static bool orMagicPower(bool origin)
     {
-        return origin || MagicPower.Prefs.hasMagicPower;
+        return true;
+        // return origin || MagicPower.Prefs.hasMagicPower;
     }
 }

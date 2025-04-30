@@ -64,12 +64,12 @@ public static class MagicPower
     }
 
 #region UI
-    [MainMenuItemSetting]
-    [PauseMenuItemSetting]
-    public static ToggleMagicPower ToggleMagicPower(object factory, GuiFormat format)
-    {
-        return new ToggleMagicPower();
-    }
+    // [MainMenuItemSetting]
+    // [PauseMenuItemSetting]
+    // public static ToggleMagicPower ToggleMagicPower(object factory, GuiFormat format)
+    // {
+    //     return new ToggleMagicPower();
+    // }
 #endregion
 
     private static void SaveSettingsOnFile(object sender, System.ComponentModel.PropertyChangedEventArgs args)
