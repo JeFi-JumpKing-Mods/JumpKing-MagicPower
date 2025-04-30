@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicPower", "MagicPower\MagicPower.csproj", "{F42D99C6-6BC0-4515-B070-C835E89F61C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F42D99C6-6BC0-4515-B070-C835E89F61C8}.Debug|x64.ActiveCfg = Debug|x64
+		{F42D99C6-6BC0-4515-B070-C835E89F61C8}.Debug|x64.Build.0 = Debug|x64
+		{F42D99C6-6BC0-4515-B070-C835E89F61C8}.Release|x64.ActiveCfg = Release|x64
+		{F42D99C6-6BC0-4515-B070-C835E89F61C8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7015F01-43FA-4DF6-A84D-24F7C26EE90E}
+	EndGlobalSection
+EndGlobal
